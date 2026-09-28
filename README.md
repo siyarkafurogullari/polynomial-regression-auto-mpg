@@ -150,7 +150,7 @@ def poly_regression(degree):
 
 ```bash
 # 1. Depoyu klonla
-git clone https://github.com/KULLANICI_ADIN/polynomial-regression-auto-mpg.git
+git clone https://github.com/siyarkafurogullari/polynomial-regression-auto-mpg.git
 cd polynomial-regression-auto-mpg
 
 # 2. Gerekli kütüphaneleri kur
@@ -190,9 +190,9 @@ polynomial-regression-auto-mpg/
 
 ## 📬 İletişim
 
-**Adın Soyadın**
+**Şiyar Kafuroğulları**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/LINKEDIN_KULLANICI_ADIN)
-[![GitHub](https://img.shields.io/badge/GitHub-Profil-181717?logo=github&logoColor=white)](https://github.com/KULLANICI_ADIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siyarkfl)
+[![GitHub](https://img.shields.io/badge/GitHub-Profil-181717?logo=github&logoColor=white)](https://github.com/siyarkafurogullari)
 
 ⭐ Projeyi faydalı bulduysan yıldız vermeyi unutma!
